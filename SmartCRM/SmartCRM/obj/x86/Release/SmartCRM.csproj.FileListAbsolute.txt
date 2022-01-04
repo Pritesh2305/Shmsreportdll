@@ -1,0 +1,17 @@
+C:\SmartCRM\SmartCRM.exe
+C:\SmartCRM\SmartCRM.pdb
+C:\Users\Hp\AppData\Local\Temporary Projects\SmartCRM\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hp\AppData\Local\Temporary Projects\SmartCRM\obj\x86\Release\SmartCRM.Form1.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\SmartCRM\obj\x86\Release\SmartCRM.Properties.Resources.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\SmartCRM\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Hp\AppData\Local\Temporary Projects\SmartCRM\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Hp\AppData\Local\Temporary Projects\SmartCRM\obj\x86\Release\SmartCRM.exe
+C:\Users\Hp\AppData\Local\Temporary Projects\SmartCRM\obj\x86\Release\SmartCRM.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Release\SmartCRM.exe
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Release\SmartCRM.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Release\SmartCRM.frmmdi.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Release\SmartCRM.Properties.Resources.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Release\SmartCRM.frmactemail.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Release\SmartCRM.Forms.frmactsms.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Release\SmartCRM.Forms.frmcrmsetting.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Release\SmartCRM.csproj.GenerateResource.Cache

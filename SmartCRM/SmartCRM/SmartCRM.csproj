@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{019E9BFB-5140-44ED-BF5C-1FE23F8FE5BE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SmartCRM</RootNamespace>
+    <AssemblyName>SmartCRM</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\..\..\..\SmartCRM\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>contact %283%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DbClass\clsDbFunction.cs" />
+    <Compile Include="DbClass\ClsGeneral.cs" />
+    <Compile Include="DbClass\clsPublicVariables.cs" />
+    <Compile Include="DbClass\clsSendEmail.cs" />
+    <Compile Include="Forms\frmactemail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmactemail.Designer.cs">
+      <DependentUpon>frmactemail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmactsms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmactsms.Designer.cs">
+      <DependentUpon>frmactsms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcontactgroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcontactgroup.Designer.cs">
+      <DependentUpon>frmcontactgroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmcrmsetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmcrmsetting.Designer.cs">
+      <DependentUpon>frmcrmsetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmanualsms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmmanualsms.Designer.cs">
+      <DependentUpon>frmmanualsms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmupdatestructure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmupdatestructure.Designer.cs">
+      <DependentUpon>frmupdatestructure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Mdimain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Mdimain.Designer.cs">
+      <DependentUpon>Mdimain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\frmactemail.resx">
+      <DependentUpon>frmactemail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmactsms.resx">
+      <DependentUpon>frmactsms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcontactgroup.resx">
+      <DependentUpon>frmcontactgroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmcrmsetting.resx">
+      <DependentUpon>frmcrmsetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmanualsms.resx">
+      <DependentUpon>frmmanualsms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Mdimain.resx">
+      <DependentUpon>Mdimain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="contact %283%29.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

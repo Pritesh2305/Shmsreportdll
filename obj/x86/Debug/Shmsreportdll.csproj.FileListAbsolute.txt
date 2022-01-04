@@ -1,0 +1,36 @@
+C:\SHMS\Shmsreportdll.dll.config
+C:\SHMS\Shmsreportdll.dll
+C:\SHMS\Shmsreportdll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.Properties.Resources.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.csproj.GenerateResource.Cache
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.dll
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.frmImage.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.frmReport.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.frmRptDisplay.resources
+C:\SHMSNEW\Shmsreportdll.dll.config
+C:\SHMSNEW\Shmsreportdll.dll
+C:\SHMSNEW\Shmsreportdll.pdb
+C:\SHMS-VER2\Shmsreportdll.dll.config
+C:\SHMS-VER2\Shmsreportdll.dll
+C:\SHMS-VER2\Shmsreportdll.pdb
+C:\SHMS-VER2-GST\Shmsreportdll.dll.config
+C:\SHMS-VER2-GST\Shmsreportdll.dll
+C:\SHMS-VER2-GST\Shmsreportdll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.csprojResolveAssemblyReference.cache
+C:\SETUP-VS2017\SHMS-VER2 - GST\Shmsreportdll.dll.config
+C:\SETUP-VS2017\SHMS-VER2 - GST\Shmsreportdll.dll
+C:\SETUP-VS2017\SHMS-VER2 - GST\Shmsreportdll.pdb
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.frmImage.resources
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.frmReport.resources
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.frmRptDisplay.resources
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.Properties.Resources.resources
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.csproj.GenerateResource.cache
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.csproj.CopyComplete
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.dll
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.pdb
+C:\SETUP-VS2017\ENTRYTICKET\Shmsreportdll.dll.config
+C:\SETUP-VS2017\ENTRYTICKET\Shmsreportdll.dll
+C:\SETUP-VS2017\ENTRYTICKET\Shmsreportdll.pdb
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\Shmsreportdll\obj\x86\Debug\Shmsreportdll.csprojAssemblyReference.cache

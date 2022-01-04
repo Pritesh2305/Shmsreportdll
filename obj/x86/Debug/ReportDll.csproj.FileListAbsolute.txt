@@ -1,0 +1,29 @@
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\bin\Debug\ReportDll.exe.config
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.Properties.Resources.resources
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\SoftCath With C#\ReportDll.pdb
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.pdb
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.frmReport.resources
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.frmRptDisplay.resources
+C:\SoftCath With C#\ReportDll.dll.config
+C:\SoftCath With C#\ReportDll.dll
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.dll
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.frmImage.resources
+C:\SoftClinic\ReportDll.dll.config
+C:\SoftClinic\ReportDll.dll
+C:\SoftClinic\ReportDll.pdb
+C:\SoftClinic C#\ReportDll.dll.config
+C:\SoftClinic C#\ReportDll.dll
+C:\SoftClinic C#\ReportDll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.frmImage.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.frmReport.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.frmRptDisplay.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.Properties.Resources.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.csproj.GenerateResource.Cache
+C:\RMS\ReportDll.dll.config
+C:\RMS\ReportDll.dll
+C:\RMS\ReportDll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.dll

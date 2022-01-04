@@ -1,0 +1,13 @@
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\bin\Debug\SmartCRM.exe
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\bin\Debug\SmartCRM.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.frmmdi.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.Properties.Resources.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.exe
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.Forms.frmactsms.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.Forms.frmcrmsetting.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.frmactemail.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.csprojResolveAssemblyReference.cache
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.csproj.GenerateResource.Cache
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.frmcontactgroup.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\SmartCRM\SmartCRM\obj\x86\Debug\SmartCRM.frmmanualsms.resources
